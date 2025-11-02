@@ -36,3 +36,7 @@ Thumbs.db
 
 # Others
 /*.unitypackage
+# Ignore huge textures
+Assets/Viking Village/Textures/Buildings/*.tif
+Assets/Viking Village/Textures/wood_tiled_01_n.tif
+Assets/Viking Village/Textures/Skies/*.hdr
